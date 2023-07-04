@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "choco",
+    "price": 33,
+    "filename": "persons/naseem@gmail.com/images/ck.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "cola",
+    "price": 6,
+    "filename": "persons/naseem@gmail.com/images/pepsy.jpeg"
+  }
+]
